@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "co": "^4.6.0",
     "es6-promisify": "^4.1.0",
     "request": "^2.75.0",
     "xml2json": "^0.10.0"
